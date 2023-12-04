@@ -1,48 +1,47 @@
 ### Autism Level Detector
 
-![home](https://user-images.githubusercontent.com/64016811/199025266-69551658-cd50-40ec-a5d1-6ec5e26c5037.png)
+Autism spectrum disorder (ASD) is a complex neurodevelopmental condition, and various factors can influence its development and manifestation. Here are 21 factors that can play a role:
 
+1. **Genetics:** Family history and genetic factors contribute significantly to ASD. Certain genetic mutations or variations increase the likelihood of ASD.
 
+2. **Prenatal Factors:** Conditions during pregnancy, such as maternal infections, exposure to certain medications, toxins, or maternal health issues, can affect fetal brain development.
 
-### Problem : 
+3. **Environmental Factors:** Exposure to environmental toxins, such as air pollutants, heavy metals, pesticides, and other chemicals, may increase the risk of ASD.
 
-Considering today’s lifestyle, people just sleep forgetting the benefits sleep provides to the human body. Smart-Yoga Pillow (SaYoPillow) is proposed to help in understanding the relationship between Autism and sleep and to fully materialize the idea of “Smart-Sleeping” by proposing an edge device. An edge processor with a model analyzing the physiological changes that occur during sleep along with the sleeping habits is proposed. Based on these changes during sleep, Autism prediction for the following day is proposed. The secure transfer of the analyzed Autism data along with the average physiological changes to the IoT cloud for storage is implemented. A secure transfer of any data from the cloud to any third-party applications is also proposed. A user interface is provided allowing the user to control the data accessibility and visibility. SaYoPillow is novel, with security features as well as consideration of sleeping habits for Autism reduction, with an accuracy of up to 96%.
+4. **Advanced Parental Age:** Both maternal and paternal age, especially when older, have been associated with a higher risk of having a child with ASD.
 
-### Solution:
+5. **Birth Complications:** Complications during birth, such as oxygen deprivation, low birth weight, or premature birth, may be linked to an increased risk of ASD.
 
-This Web app will help you to detects a person's Autism level by analysing the values of several features using the Decision Tree Classifier.
+6. **Immune System Dysfunction:** Disruptions or irregularities in the immune system during critical developmental periods might be a contributing factor.
 
-### Idea: 
-Building an application that can detect the presence of a mental Autism or the possible causes of mental ailments due to Autism by indicating the highly relevant factors. 
+7. **Neurological Factors:** Differences in brain structure and connectivity, such as abnormal growth patterns or connectivity in certain brain regions, have been observed in individuals with ASD.
 
-### Layout
+8. **Gastrointestinal Issues:** Many individuals with ASD also experience gastrointestinal problems, leading to investigations into the gut-brain connection.
 
-```
-├───images
-├───Tabs
-│   └───__pycache__
-|   └─── home.py
-|   └─── data.py
-|   └─── predict.py
-|   └─── visualize.py
-|   └─── about.py
-└───__pycache__
-└─── main.py
-└─── web_functions.py
-└─── requirements.txt
-└─── Procfile
-└─── setup.sh
-```
+9. **Sensory Processing Differences:** Heightened or reduced sensitivity to sensory stimuli is common in ASD, impacting how individuals perceive and interact with their environment.
 
+10. **Epigenetic Factors:** Environmental influences that can modify gene expression without changing the underlying DNA sequence might contribute to ASD.
 
-### Note:
-**Incase the application demo doesn't start real quick, you can get an idea about how it looks like from the screenshots**
+11. **Nutritional Factors:** Some research suggests that dietary factors, including nutritional deficiencies or specific dietary components, might influence ASD symptoms.
 
-![image](https://user-images.githubusercontent.com/64016811/199024653-a24bb46e-5bde-4f6c-876d-a7c4b02c0218.png)
-![image](https://user-images.githubusercontent.com/64016811/199024804-5b4bd63a-528d-4c3c-94ce-2463ab83d5ce.png)
-![image](https://user-images.githubusercontent.com/64016811/199026180-fafca016-8955-4301-bc63-3ec978b2c27e.png)
-![image](https://user-images.githubusercontent.com/64016811/199025795-61a199f2-67e2-40e9-a076-97e72ca01cd0.png)
-![image](https://user-images.githubusercontent.com/64016811/199024885-c3c519d2-b67d-40a7-9804-ea9c7ad938af.png)
-![image](https://user-images.githubusercontent.com/64016811/199025007-87d895ee-f812-4987-9acd-e46a88d2055e.png)
+12. **Hormonal Factors:** Imbalances or differences in hormonal levels during critical developmental stages could potentially impact ASD.
 
+13. **Neurotransmitter Function:** Variations in neurotransmitter levels or functioning, such as serotonin, dopamine, and others, might be associated with ASD.
 
+14. **Social and Environmental Interaction:** Early social experiences and the social environment can significantly impact the development of social skills in individuals with ASD.
+
+15. **Stress During Pregnancy:** High levels of stress or exposure to stressful situations during pregnancy might influence fetal development.
+
+16. **Parental Health:** The physical and mental health status of parents before and during pregnancy can have an impact on the risk of ASD.
+
+17. **Autoimmune Disorders:** Some studies suggest a potential link between autoimmune disorders in mothers and an increased risk of ASD in their children.
+
+18. **Inflammation:** Elevated levels of inflammation markers have been observed in some individuals with ASD, leading to investigations into the role of inflammation.
+
+19. **Sleep Disorders:** Sleep disturbances are common in individuals with ASD, and the relationship between sleep patterns and ASD is an area of ongoing research.
+
+20. **Metabolic Factors:** Variations in metabolic processes or metabolic disorders might contribute to ASD symptoms in some individuals.
+
+21. **Unknown Factors:** Despite extensive research, there are still aspects of ASD that remain unclear, and there might be additional factors that influence its development.
+
+Understanding ASD involves considering these various factors and their potential interactions, but it's important to note that each individual's experience with ASD is unique, and not all factors may apply to everyone.
